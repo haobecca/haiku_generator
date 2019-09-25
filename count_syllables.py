@@ -1,7 +1,7 @@
 import sys
 from string import punctuation
 import json
-from nltk.corpus import cmudict
+import cmudict
 
 # Load dictionary of words in haiku corpus but not in cmudict
 
